@@ -3,3 +3,6 @@ As the enigmatic Knight, you'll traverse the depths, unravel its mysteries and c
 
 Hollow Knight is a 2D side-scrolling action adventure video game in the Metroidvania style. It was developed by Team Cherry and first released for Microsoft Windows on the 24th of February, 2017 then macOS and Linux. It was ported in 2018 to the Nintendo Switch, Xbox One and PlayStation 4 by Shark Jump Studios.
 
+[Locations](./locaties.md)
+[Characters](./personages.md)
+[Story](./verhaal.md)
